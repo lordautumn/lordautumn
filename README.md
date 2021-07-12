@@ -6,7 +6,7 @@
 - 👀 I’m interested in full-stack developing
 - 🌱 I’m currently learning about python
 - 💞️ I’m looking to collaborate on discord bots
-- 📫 How to reach me (discord:light#1234)
+- 📫 How to reach me (discord:lighty#0001)
 ### Connect with me:
 <a href="https://discord.gg/loyal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.gg/Mvy8gn5" height="30" width="30" /></a>
 [<img align="left" alt="loyal.website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
